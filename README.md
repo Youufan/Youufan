@@ -1,20 +1,25 @@
-Hi ! My name is Yufan (Alice)
+Hi! My name is Yufan (Alice)
 ======================================================================================================================================
 
-Incoming NTU Materials Science and Engineering student documenting my learning journey in math, materials science, coding, and sustainability.
+Incoming NTU Materials Science and Engineering student documenting my learning journey in mathematics, materials science, coding, and sustainability.
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 I’m an incoming Materials Science and Engineering student at NTU, interested in smart textiles, AI for materials, sustainability, and research. This page is a personal space where I document what I’m learning, build small study tools, and reflect on my transition into university.
 
-I’m currently working on a personal COE Prep Math companion site to organise my revision notes, worked examples, practice reflections, and chapter based learning. I’m also slowly building my coding foundation through HTML, CSS, JavaScript, Python, and small web projects.
+I’m currently developing a personal COE Prep Math companion site for organising revision notes, worked examples, practice questions, and chapter based learning. I’m also building **PedalStudy**, a study and indoor cycling companion that turns lecture revision into structured rides by connecting learning progress with cycling sessions.
+
+Through these projects, I’m gradually building my foundation in HTML, CSS, JavaScript, Python, interface design, and product development.
 
 * 🌍 I'm based in Singapore
 * ✉️ You can contact me at [alittlebetterlice@gmail.com](mailto:alittlebetterlice@gmail.com)
-* 🚀 I'm currently working on [COE Prep Math Course Companion](https://youufan.github.io/coe-math-course/)
-* 🧠 I'm currently learning university preparatory mathematics, Python, web development, materials science fundamentals, and AI for materials.
-* 👥 I'm looking to collaborate on student learning tools, sustainability projects, research visualisation, beginner friendly coding projects, and materials science related resources.
-* 💬 Ask me about turning messy learning processes into clear notes, visuals, and small tools that help me understand things better.
+* 🚀 I'm currently working on [COE Prep Math Course Companion](https://youufan.github.io/coe-math-course/) and [PedalStudy] (https://youufan.github.io/pedalstudy/)
+* 🚴 PedalStudy combines lecture learning, progress tracking, and indoor cycling in one focused study experience
+* 🧠 I'm currently learning university preparatory mathematics, Python, web development, materials science fundamentals, and AI for materials
+* 👥 I'm looking to collaborate on student learning tools, sustainability projects, research visualisation, beginner friendly coding projects, and materials science related resources
+* 💬 Ask me about turning messy learning processes into clear notes, visuals, and small tools that make learning more intuitive
 
+* ⚡ Fun fact: I build study tools whenever I get frustrated with how I’m supposed to study—and PedalStudy exists because apparently sitting still was the problem.
+  
 ### Skills
 
 <p align="left">
