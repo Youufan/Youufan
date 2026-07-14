@@ -18,7 +18,7 @@ Through these projects, I’m gradually building my foundation in HTML, CSS, Jav
 * 👥 I'm looking to collaborate on student learning tools, sustainability projects, research visualisation, beginner friendly coding projects, and materials science related resources
 * 💬 Ask me about turning messy learning processes into clear notes, visuals, and small tools that make learning more intuitive
 
-* ⚡ Fun fact: I build study tools whenever I get frustrated with how I’m supposed to study—and PedalStudy exists because apparently sitting still was the problem.
+* ⚡ Fun fact: I build study tools whenever I get frustrated with how I’m supposed to study and PedalStudy exists because apparently sitting still was the problem.
   
 ### Skills
 
