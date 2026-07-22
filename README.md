@@ -13,7 +13,6 @@ Through these projects, I’m gradually building my foundation in HTML, CSS, Jav
 * 🌍 I'm based in Singapore
 * ✉️ You can contact me at [alittlebetterlice@gmail.com](mailto:alittlebetterlice@gmail.com)
 * 🚀 I'm currently working on [MATERIDEX](https://youufan.github.io/MATERIDEX/), [Alice's Math Companion](https://youufan.github.io/coe-math-course/) and [PedalStudy](https://youufan.github.io/pedalstudy/)
-* 🚴 PedalStudy combines lecture learning, progress tracking, and indoor cycling in one focused study experience
 * 🧠 I'm currently learning university preparatory mathematics, Python, web development, materials science fundamentals, and AI for materials
 * 👥 I'm looking to collaborate on student learning tools, sustainability projects, research visualisation, beginner friendly coding projects, and materials science related resources
 * 💬 Ask me about turning messy learning processes into clear notes, visuals, and small tools that make learning more intuitive
