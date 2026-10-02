@@ -6,9 +6,7 @@ Incoming NTU Materials Science and Engineering student documenting my learning j
 
 I’m an incoming Materials Science and Engineering student at NTU, interested in smart textiles, AI for materials, sustainability, and research. This page is a personal space where I document what I’m learning, build small study tools, and reflect on my transition into university.
 
-I’m currently developing a personal COE Prep Math companion site for organising revision notes, worked examples, practice questions, and chapter based learning. I’m also building **PedalStudy**, a study and indoor cycling companion that turns lecture revision into structured rides by connecting learning progress with cycling sessions.
-
-Through these projects, I’m gradually building my foundation in HTML, CSS, JavaScript, Python, interface design, and product development.
+I'm an aspiring creative technologist learning TouchDesigner
 
 * 🌍 I'm based in Singapore
 * ✉️ You can contact me at [alittlebetterlice@gmail.com](mailto:alittlebetterlice@gmail.com)
@@ -17,7 +15,6 @@ Through these projects, I’m gradually building my foundation in HTML, CSS, Jav
 * 👥 I'm looking to collaborate on student learning tools, sustainability projects, research visualisation, beginner friendly coding projects, and materials science related resources
 * 💬 Ask me about turning messy learning processes into clear notes, visuals, and small tools that make learning more intuitive
 
-* ⚡ Fun fact: I build study tools whenever I get frustrated with how I’m supposed to study and PedalStudy exists because apparently sitting still was the problem.
   
 ### Skills
 
